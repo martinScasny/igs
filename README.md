@@ -1,1 +1,2 @@
 # igs
+spravil som komit
